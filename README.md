@@ -11,7 +11,7 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 ![UFO Nav](https://user-images.githubusercontent.com/115853964/229425983-177507e7-3431-46fd-b0f1-fba2a3c89c50.jpg)
 
 1. Open page 
-2. Fill in appropriate imputs based on query in the circled feild box above
+2. Fill in appropriate imputs based on query in the circled field box above
 - Date
 - City
 - State
